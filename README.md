@@ -18,7 +18,7 @@ Analyze the whiskey survey and recommend another Whiskey that the user would lik
 ### Dataset file
 [scotch_review.csv in this repository](scotch_review.csv)
 or
-[kaggle - 22,000+ Scotch Whisky Reviews](https://www.kaggle.com/koki25ando/22000-scotch-whisky-reviews)
+[kaggle - 22,000+ Scotch Whisky Reviews](https://www.kaggle.com/koki25ando/22000-scotch-whisky-reviews), but dataset has 2.2K+, not 22K+.
 
 ### Dataset Description (copy from kaggle description)
 #### Context
